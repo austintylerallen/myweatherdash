@@ -20,7 +20,7 @@ To use the Weather Dashboard application, follow these steps:
 5. To view the weather for a previously searched city, click on the city name in the search history list.
 
 ## Deployment
-![Weather Dashboard](images/weatherboard.png)
+![Weather Dashboard](images/weatherdash.png)
 
 
 ## Technologies Used
@@ -36,6 +36,8 @@ The Weather Dashboard application was built using the following technologies:
 ## Credits
 
 - Weather icons provided by [OpenWeather](https://openweathermap.org/weather-conditions)
+- Fonts from [Google Fonts](https://fonts.google.com/)
+- Icons from [Font Awesome](https://fontawesome.com/)
 
 ## Developer
 
