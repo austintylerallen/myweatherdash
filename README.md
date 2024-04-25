@@ -32,6 +32,7 @@ The Weather Dashboard application was built using the following technologies:
 - Jass
 - JavaScript (including libraries such as jQuery and Day.js)
 - OpenWeather API
+- Chat GPT for verifying things and helping me when I get stuck.
 
 ## Credits
 
